@@ -238,6 +238,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_External_Id__c</fullName>
+        <externalId>true</externalId>
+        <label>Account External Id</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>AnnualRevenue</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
